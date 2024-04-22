@@ -1,5 +1,5 @@
-# Personal Neovim Config
+# Neovim Config
 
-This is my Neovim config.
+This is the neovim configuration I'm using.
 
 New on neovim so remaps are can be insufficient.
