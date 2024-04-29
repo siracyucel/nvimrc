@@ -18,3 +18,6 @@ vim.opt.scrolloff = 10
 
 vim.opt.updatetime = 50
 
+vim.g.have_nerd_font = true
+
+vim.opt.clipboard = 'unnamedplus'
