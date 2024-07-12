@@ -14,7 +14,7 @@ vim.opt.wrap = true
 
 vim.opt.termguicolors = true
 
-vim.opt.scrolloff = 10
+vim.opt.scrolloff = 14
 
 vim.opt.updatetime = 50
 
